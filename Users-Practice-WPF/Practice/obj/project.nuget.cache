@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkYhTy7F339bHP3ERaEgFbdfZ9VImIzG2K9shcuUTVfuiAB9x11rh+CmqAHGQLRFBvr7VVKwTZXmMpi8eeov/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Senan\\Desktop\\Yeni klasör\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Senan\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Senan\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Senan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
